@@ -1,0 +1,37 @@
+@import "./blocks/base.css";
+@import "./blocks/nav.css";
+@import "./blocks/header.css";
+@import "./blocks/buttons.css";
+@import "./blocks/section-header.css";
+@import "./blocks/product.css";
+@import "./blocks/info-section-new.css";
+@import "./blocks/info-section-featured.css";
+@import "./blocks/post.css";
+@import "./blocks/subscribe-form.css";
+@import "./blocks/footer.css";
+@import "./blocks/menu-icon.css";
+
+/* .nav, 
+header, 
+.section-new, 
+.info-section-new, 
+.section-featured, 
+.info-section-featured, 
+.section-blog, 
+.section-subscribe, 
+footer 
+{
+    display: none;
+} */
+
+/* 
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+*/
+
+/* @media (min-width: 992px) {
+    
+} */
+
+
+
